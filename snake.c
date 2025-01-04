@@ -7,7 +7,7 @@ int piece =0;
 void makeLogic()
 {
      int i;
-     int prevx,prevy,prev2x;prev2y;
+     int prevx,prevy,prev2x,prev2y;
      prevx=tailx[0];
      prevy=taily[0];
      tailx[0]=x;
